@@ -1,0 +1,8 @@
+{
+  "name": "PRÊT-À-PORTER — Все ссылки",
+  "description": "Prêt-à-Porter — архивы и история моды, бренд одежды ЕК и соцсети проекта.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
